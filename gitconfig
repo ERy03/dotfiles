@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ryoenoki2013@gmail.com
+	name = Ryota Enoki
